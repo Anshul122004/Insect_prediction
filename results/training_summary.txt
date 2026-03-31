@@ -1,0 +1,49 @@
+TRAINING RESULTS SUMMARY
+==================================================
+
+Final Training Accuracy: 0.9351
+Final Validation Accuracy: 0.9439
+Best Validation Accuracy: 0.9439
+Total Training Time: 123.29 minutes
+Average Epoch Time: 493.17 seconds
+
+PER-CLASS ACCURACY:
+--------------------
+Butterfly      : 0.9444
+Dragonfly      : 0.9231
+Grasshopper    : 0.9323
+Ladybird       : 0.9884
+Mosquito       : 0.9348
+
+DETAILED CLASSIFICATION REPORT:
+-----------------------------------
+
+Butterfly:
+  Precision: 0.9392
+  Recall:    0.9444
+  F1-Score:  0.9418
+  Support:   180.0
+
+Dragonfly:
+  Precision: 0.9600
+  Recall:    0.9231
+  F1-Score:  0.9412
+  Support:   208.0
+
+Grasshopper:
+  Precision: 0.9227
+  Recall:    0.9323
+  F1-Score:  0.9275
+  Support:   192.0
+
+Ladybird:
+  Precision: 0.9661
+  Recall:    0.9884
+  F1-Score:  0.9771
+  Support:   173.0
+
+Mosquito:
+  Precision: 0.9281
+  Recall:    0.9348
+  F1-Score:  0.9314
+  Support:   138.0

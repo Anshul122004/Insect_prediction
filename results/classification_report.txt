@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+   Butterfly       0.94      0.94      0.94       180
+   Dragonfly       0.96      0.92      0.94       208
+ Grasshopper       0.92      0.93      0.93       192
+    Ladybird       0.97      0.99      0.98       173
+    Mosquito       0.93      0.93      0.93       138
+
+    accuracy                           0.94       891
+   macro avg       0.94      0.94      0.94       891
+weighted avg       0.94      0.94      0.94       891

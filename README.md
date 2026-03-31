@@ -76,8 +76,4 @@ Dataset is not included due to size limitations.
 * Deploy as a web application
 * Improve accuracy with larger dataset
 
----
 
-## 👨‍💻 Author
-
-Anshul Jain

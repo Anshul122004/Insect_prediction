@@ -53,14 +53,10 @@ pip install torch torchvision opencv-python numpy
 python predict_insect.py
 ```
 
----
-
 ## 📸 Results
 
 <img width="2791" height="2365" alt="image" src="https://github.com/user-attachments/assets/878b8ea9-547d-46cf-b26b-4c6dc13864c4" />
 <img width="3570" height="1466" alt="image" src="https://github.com/user-attachments/assets/e5b778fe-f857-44e1-80fd-14ef94e4ddd6" />
-
-
 
 ---
 
